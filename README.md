@@ -26,18 +26,18 @@
 
 ###
 
-<p align="left">Я начинающий Python backend разработчик.
-Готов помочь с написанием back-end части сайта
-
-Мои скилы:
-  -- fast-api(django), sqlalchemy, postgresql
-  -- front-end на среднем уровне html/css
-
-Также пишу telegram botов(aiogram)
-
-Не против поучаствовать в командной разработке
-(за опыт)
-
+<p align="left">Я начинающий Python backend разработчик.<br>
+Готов помочь с написанием back-end части сайта<br>
+<br>
+Мои скилы:<br>
+  -- fast-api(django), sqlalchemy, postgresql<br>
+  -- front-end на среднем уровне html/css<br>
+<br>
+Также пишу telegram botов(aiogram)<br>
+<br>
+Не против поучаствовать в командной разработке<br>
+(за опыт)<br>
+<br>
 Пишите в tg
 !</p>
 <br>
